@@ -1,7 +1,8 @@
 # exploration-in-reinfoecement-learning-test
 This is support code and test info for the paper about exploration in deep reinforcemnt learning 
 
-
+paper title: Experiments Focused on Exploration in Deep Reinforcement Learning
+coonference: http://www.ismsitconf.org/ ISMSIT 2021 
 
 similar code for reference at:
 1) https://github.com/mswang12/minA2C/blob/main/minA2C.py
